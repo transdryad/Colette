@@ -1,0 +1,386 @@
+** Drc report for Colette.kicad_pcb **
+** Created on 2025-03-13T18:20:49-0600 **
+
+** Found 95 DRC violations **
+[silk_edge_clearance]: Silkscreen clipped by board edge
+    Rule: board setup constraints silk; warning
+    @(165.6979 mm, 110.0054 mm): Polygon on Edge.Cuts
+    @(165.3000 mm, 99.1000 mm): Segment on F.Silkscreen
+[silk_edge_clearance]: Silkscreen clipped by board edge
+    Rule: board setup constraints silk; warning
+    @(165.6979 mm, 110.0054 mm): Polygon on Edge.Cuts
+    @(165.3000 mm, 105.6000 mm): Segment on F.Silkscreen
+[silk_edge_clearance]: Silkscreen clipped by board edge
+    Rule: board setup constraints silk; warning
+    @(165.6979 mm, 110.0054 mm): Polygon on Edge.Cuts
+    @(166.5000 mm, 108.1000 mm): Segment on F.Silkscreen
+[silk_edge_clearance]: Silkscreen clipped by board edge
+    Rule: board setup constraints silk; warning
+    @(165.6979 mm, 110.0054 mm): Polygon on Edge.Cuts
+    @(168.3000 mm, 101.6000 mm): Segment on F.Silkscreen
+[silk_edge_clearance]: Silkscreen clipped by board edge
+    Rule: board setup constraints silk; warning
+    @(165.6979 mm, 110.0054 mm): Polygon on Edge.Cuts
+    @(164.3575 mm, 95.3150 mm): Reference field of U1
+[silk_edge_clearance]: Silkscreen clipped by board edge
+    Rule: board setup constraints silk; warning
+    @(175.5000 mm, 110.0000 mm): Polygon on Edge.Cuts
+    @(172.8000 mm, 105.7000 mm): Segment on F.Silkscreen
+[silk_edge_clearance]: Silkscreen clipped by board edge
+    Rule: board setup constraints silk; warning
+    @(175.5000 mm, 110.0000 mm): Polygon on Edge.Cuts
+    @(174.6000 mm, 99.2000 mm): Segment on F.Silkscreen
+[silk_edge_clearance]: Silkscreen clipped by board edge
+    Rule: board setup constraints silk; warning
+    @(175.5000 mm, 110.0000 mm): Polygon on Edge.Cuts
+    @(175.8000 mm, 101.7000 mm): Segment on F.Silkscreen
+[silk_edge_clearance]: Silkscreen clipped by board edge
+    Rule: board setup constraints silk; warning
+    @(175.5000 mm, 110.0000 mm): Polygon on Edge.Cuts
+    @(175.8000 mm, 108.2000 mm): Segment on F.Silkscreen
+[lib_footprint_mismatch]: Footprint 'Jack_3.5mm_CUI_SJ1-3523N_Horizontal' does not match copy in library 'Connector_Audio'.
+    Local override; warning
+    @(162.0000 mm, 103.6000 mm): Footprint J1
+[lib_footprint_mismatch]: Footprint 'RaspberryPi_Pico_Common_THT' does not match copy in library 'Module'.
+    Local override; warning
+    @(179.9200 mm, 46.4000 mm): Footprint U2
+[lib_footprint_mismatch]: Footprint 'RaspberryPi_Pico_Common_THT' does not match copy in library 'Module'.
+    Local override; warning
+    @(143.7200 mm, 46.4200 mm): Footprint U1
+[lib_footprint_mismatch]: Footprint 'Jack_3.5mm_CUI_SJ1-3523N_Horizontal' does not match copy in library 'Connector_Audio'.
+    Local override; warning
+    @(179.1000 mm, 103.7000 mm): Footprint J2
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(99.8800 mm, 111.6800 mm): Reference field of D22
+    @(99.4450 mm, 100.0750 mm): Segment on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(99.4950 mm, 119.1350 mm): Segment on F.Silkscreen
+    @(99.8800 mm, 126.0900 mm): Reference field of D28
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(118.4450 mm, 104.6250 mm): Segment on F.Silkscreen
+    @(119.0800 mm, 113.8900 mm): Reference field of D23
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(126.4900 mm, 118.4800 mm): Footprint text of D24 (K)
+    @(137.3450 mm, 118.6150 mm): Segment on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(118.4450 mm, 118.5950 mm): Segment on F.Silkscreen
+    @(116.6000 mm, 118.6600 mm): Reference field of D29
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(118.4450 mm, 118.5950 mm): Segment on F.Silkscreen
+    @(112.7900 mm, 118.9800 mm): Footprint text of D29 (K)
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(128.1900 mm, 99.1800 mm): Footprint text of D18 (K)
+    @(137.3450 mm, 99.3950 mm): Segment on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(137.3450 mm, 118.6150 mm): Segment on F.Silkscreen
+    @(130.3000 mm, 118.1600 mm): Reference field of D24
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(128.5900 mm, 60.7800 mm): Footprint text of D6 (K)
+    @(137.3950 mm, 61.3550 mm): Segment on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(137.3950 mm, 61.3550 mm): Segment on F.Silkscreen
+    @(130.2800 mm, 61.4600 mm): Segment on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(130.8800 mm, 61.4600 mm): Segment on F.Silkscreen
+    @(137.3950 mm, 61.3550 mm): Segment on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(131.0000 mm, 61.4600 mm): Segment on F.Silkscreen
+    @(137.3950 mm, 61.3550 mm): Segment on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(131.1200 mm, 61.4600 mm): Segment on F.Silkscreen
+    @(137.3950 mm, 61.3550 mm): Segment on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(134.5200 mm, 61.4600 mm): Segment on F.Silkscreen
+    @(137.3950 mm, 61.3550 mm): Segment on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(137.3950 mm, 61.3550 mm): Segment on F.Silkscreen
+    @(134.5200 mm, 63.7000 mm): Segment on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(128.2800 mm, 79.9800 mm): Footprint text of D12 (K)
+    @(137.4450 mm, 80.3950 mm): Segment on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(118.8800 mm, 91.2800 mm): Reference field of D17
+    @(118.4450 mm, 85.5250 mm): Segment on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(118.6800 mm, 72.0700 mm): Reference field of D11
+    @(118.3950 mm, 66.3850 mm): Segment on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(119.0000 mm, 75.8800 mm): Footprint text of D11 (K)
+    @(118.3950 mm, 66.3850 mm): Segment on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(132.0000 mm, 98.8600 mm): Reference field of D18
+    @(137.3450 mm, 99.3950 mm): Segment on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(118.7800 mm, 55.9900 mm): Reference field of D5
+    @(118.3950 mm, 47.3850 mm): Segment on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(99.8800 mm, 52.8800 mm): Reference field of D4
+    @(99.4650 mm, 42.8350 mm): Segment on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(218.4800 mm, 91.3100 mm): Reference field of D32
+    @(218.0450 mm, 85.5950 mm): Segment on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(218.0850 mm, 47.4150 mm): Segment on F.Silkscreen
+    @(218.4800 mm, 53.1100 mm): Reference field of D30
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(256.7800 mm, 125.0000 mm): Reference field of D39
+    @(256.2450 mm, 119.2450 mm): Segment on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(237.0950 mm, 104.6950 mm): Segment on F.Silkscreen
+    @(237.4800 mm, 110.4000 mm): Reference field of D38
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(218.4800 mm, 110.3100 mm): Reference field of D33
+    @(218.0450 mm, 104.6950 mm): Segment on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(237.6800 mm, 72.2000 mm): Reference field of D36
+    @(237.1450 mm, 66.4950 mm): Segment on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(256.2450 mm, 81.1450 mm): Segment on F.Silkscreen
+    @(256.4800 mm, 91.5000 mm): Reference field of D42
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(256.2450 mm, 81.1450 mm): Segment on F.Silkscreen
+    @(256.8000 mm, 95.3100 mm): Footprint text of D42 (K)
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(256.5800 mm, 54.3100 mm): Reference field of D40
+    @(256.1450 mm, 42.9450 mm): Segment on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(275.2450 mm, 66.4950 mm): Segment on F.Silkscreen
+    @(275.8800 mm, 72.4000 mm): Reference field of D46
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(256.6800 mm, 72.4100 mm): Reference field of D41
+    @(256.1450 mm, 61.9450 mm): Segment on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(275.1450 mm, 47.4950 mm): Segment on F.Silkscreen
+    @(275.6800 mm, 57.9000 mm): Reference field of D45
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(218.0850 mm, 66.5150 mm): Segment on F.Silkscreen
+    @(218.4800 mm, 72.2000 mm): Reference field of D31
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(237.6800 mm, 91.4000 mm): Reference field of D37
+    @(237.0950 mm, 85.5550 mm): Segment on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(237.4800 mm, 53.2100 mm): Reference field of D35
+    @(237.0950 mm, 47.4550 mm): Segment on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(275.1450 mm, 123.7950 mm): Segment on F.Silkscreen
+    @(275.6800 mm, 131.6100 mm): Reference field of D44
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(294.7800 mm, 134.1000 mm): Reference field of D49
+    @(294.1950 mm, 128.3050 mm): Segment on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(256.2450 mm, 100.1450 mm): Segment on F.Silkscreen
+    @(256.7800 mm, 107.6000 mm): Reference field of D43
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(251.2000 mm, 118.8200 mm): Reference field of D34
+    @(242.2750 mm, 119.2450 mm): Segment on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(251.2000 mm, 118.8200 mm): Reference field of D34
+    @(249.2600 mm, 118.3560 mm): Reference field of SW-26
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(249.2600 mm, 118.3560 mm): Reference field of SW-26
+    @(249.0800 mm, 117.8200 mm): Segment on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(256.8000 mm, 95.3100 mm): Footprint text of D42 (K)
+    @(256.2450 mm, 95.1150 mm): Segment on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(275.5800 mm, 91.4100 mm): Reference field of D47
+    @(275.1450 mm, 85.5950 mm): Segment on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(300.7800 mm, 126.8200 mm): Segment on F.Silkscreen
+    @(306.3600 mm, 127.4560 mm): Reference field of SW-29
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(275.7800 mm, 110.4000 mm): Reference field of D48
+    @(275.1450 mm, 104.6950 mm): Segment on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(100.0800 mm, 73.8900 mm): Reference field of D10
+    @(99.4950 mm, 61.8350 mm): Segment on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(80.9800 mm, 73.2900 mm): Reference field of D9
+    @(80.4450 mm, 66.4250 mm): Segment on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(80.8800 mm, 53.0900 mm): Reference field of D3
+    @(80.3950 mm, 47.3850 mm): Segment on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(80.8800 mm, 90.7800 mm): Reference field of D15
+    @(80.4450 mm, 85.5250 mm): Segment on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(80.4450 mm, 104.6250 mm): Segment on F.Silkscreen
+    @(80.5800 mm, 111.6900 mm): Reference field of D21
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(80.4450 mm, 104.6250 mm): Segment on F.Silkscreen
+    @(80.9000 mm, 115.5000 mm): Footprint text of D21 (K)
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(80.8800 mm, 126.0800 mm): Reference field of D27
+    @(80.2950 mm, 123.6850 mm): Segment on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(300.7700 mm, 88.6200 mm): Segment on F.Silkscreen
+    @(306.3600 mm, 89.2560 mm): Reference field of SW-18
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(299.3750 mm, 104.1150 mm): Segment on F.Silkscreen
+    @(299.6800 mm, 104.7000 mm): Footprint text of D57 (K)
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(313.3450 mm, 104.1150 mm): Segment on F.Silkscreen
+    @(303.4900 mm, 104.3800 mm): Reference field of D57
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(313.3450 mm, 104.1150 mm): Segment on F.Silkscreen
+    @(299.6800 mm, 104.7000 mm): Footprint text of D57 (K)
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(306.3600 mm, 108.2560 mm): Reference field of SW-24
+    @(301.3700 mm, 107.6200 mm): Segment on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(305.6100 mm, 107.6200 mm): Segment on F.Silkscreen
+    @(306.3600 mm, 108.2560 mm): Reference field of SW-24
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(294.6800 mm, 62.9100 mm): Reference field of D50
+    @(294.2450 mm, 52.0450 mm): Segment on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(313.3950 mm, 66.0750 mm): Segment on F.Silkscreen
+    @(303.5900 mm, 66.2800 mm): Reference field of D55
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(299.4250 mm, 66.0750 mm): Segment on F.Silkscreen
+    @(299.7800 mm, 66.6000 mm): Footprint text of D55 (K)
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(313.3950 mm, 66.0750 mm): Segment on F.Silkscreen
+    @(299.7800 mm, 66.6000 mm): Footprint text of D55 (K)
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(306.3600 mm, 70.1560 mm): Reference field of SW-12
+    @(301.4700 mm, 69.5200 mm): Segment on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(305.7100 mm, 69.5200 mm): Segment on F.Silkscreen
+    @(306.3600 mm, 70.1560 mm): Reference field of SW-12
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(290.1900 mm, 123.4800 mm): Reference field of D58
+    @(294.2450 mm, 123.1150 mm): Segment on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(294.2450 mm, 109.1450 mm): Segment on F.Silkscreen
+    @(294.7800 mm, 114.9000 mm): Reference field of D53
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(302.9000 mm, 123.5800 mm): Reference field of D54
+    @(313.3450 mm, 123.1150 mm): Segment on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(313.3450 mm, 85.0150 mm): Segment on F.Silkscreen
+    @(302.8900 mm, 85.3800 mm): Reference field of D56
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(294.7800 mm, 77.2100 mm): Reference field of D51
+    @(294.2450 mm, 71.0450 mm): Segment on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(294.2450 mm, 90.1450 mm): Segment on F.Silkscreen
+    @(294.6800 mm, 95.9000 mm): Reference field of D52
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(61.4800 mm, 133.1800 mm): Reference field of D26
+    @(61.2450 mm, 128.2750 mm): Segment on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(61.8000 mm, 136.9900 mm): Footprint text of D26 (K)
+    @(61.2450 mm, 128.2750 mm): Segment on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(42.2450 mm, 51.9350 mm): Segment on F.Silkscreen
+    @(42.6800 mm, 57.6900 mm): Reference field of D1
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(61.7800 mm, 57.6900 mm): Reference field of D2
+    @(61.2950 mm, 51.9350 mm): Segment on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(42.1450 mm, 109.1750 mm): Segment on F.Silkscreen
+    @(42.5800 mm, 116.4800 mm): Reference field of D19
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(42.6800 mm, 135.3800 mm): Reference field of D25
+    @(42.1450 mm, 128.2750 mm): Segment on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(42.6800 mm, 77.0900 mm): Reference field of D7
+    @(42.2450 mm, 70.9750 mm): Segment on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(61.9800 mm, 77.3900 mm): Reference field of D8
+    @(61.3450 mm, 70.9750 mm): Segment on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(61.2950 mm, 90.0350 mm): Segment on F.Silkscreen
+    @(61.7800 mm, 94.5800 mm): Reference field of D14
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(42.6800 mm, 96.9800 mm): Reference field of D13
+    @(42.2450 mm, 90.0750 mm): Segment on F.Silkscreen
+
+** Found 0 unconnected pads **
+
+** Found 0 Footprint errors **
+
+** End of Report **

@@ -1,0 +1,2 @@
+#define MASTER_LEFT
+#define SERIAL_PIO_USE_PIO0
