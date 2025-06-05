@@ -21981,7 +21981,7 @@
 			(remove_unused_layers no)
 			(net 43 "unconnected-(U1-GND-Pad3)")
 			(pinfunction "GND")
-			(pintype "power_in")
+			(pintype "power_in+no_connect")
 			(options
 				(clearance outline)
 				(anchor circle)
@@ -22061,7 +22061,7 @@
 			(remove_unused_layers no)
 			(net 46 "unconnected-(U1-GND-Pad8)")
 			(pinfunction "GND")
-			(pintype "power_in")
+			(pintype "power_in+no_connect")
 			(options
 				(clearance outline)
 				(anchor circle)
@@ -22141,7 +22141,7 @@
 			(remove_unused_layers no)
 			(net 54 "unconnected-(U1-GND-Pad13)")
 			(pinfunction "GND")
-			(pintype "power_in")
+			(pintype "power_in+no_connect")
 			(options
 				(clearance outline)
 				(anchor circle)
@@ -22199,7 +22199,7 @@
 			(remove_unused_layers no)
 			(net 69 "unconnected-(U1-GPIO12-Pad16)")
 			(pinfunction "GPIO12")
-			(pintype "bidirectional")
+			(pintype "bidirectional+no_connect")
 			(uuid "fe4f1d82-b748-49f1-aba8-b065718f2a95")
 		)
 		(pad "17" thru_hole circle
@@ -22210,7 +22210,7 @@
 			(remove_unused_layers no)
 			(net 63 "unconnected-(U1-GPIO13-Pad17)")
 			(pinfunction "GPIO13")
-			(pintype "bidirectional")
+			(pintype "bidirectional+no_connect")
 			(uuid "ceb08d44-66a9-4039-8f6b-83ce1746726b")
 		)
 		(pad "18" thru_hole custom
@@ -22221,7 +22221,7 @@
 			(remove_unused_layers no)
 			(net 48 "unconnected-(U1-GND-Pad18)")
 			(pinfunction "GND")
-			(pintype "power_in")
+			(pintype "power_in+no_connect")
 			(options
 				(clearance outline)
 				(anchor circle)
@@ -22257,7 +22257,7 @@
 			(remove_unused_layers no)
 			(net 52 "unconnected-(U1-GPIO14-Pad19)")
 			(pinfunction "GPIO14")
-			(pintype "bidirectional")
+			(pintype "bidirectional+no_connect")
 			(uuid "5ceb5fce-65e8-4df1-bb7f-f5e205692e48")
 		)
 		(pad "20" thru_hole circle
@@ -22268,7 +22268,7 @@
 			(remove_unused_layers no)
 			(net 44 "unconnected-(U1-GPIO15-Pad20)")
 			(pinfunction "GPIO15")
-			(pintype "bidirectional")
+			(pintype "bidirectional+no_connect")
 			(uuid "2cbed6fc-7fa8-4c04-bcf1-9e220e42ba72")
 		)
 		(pad "21" thru_hole circle
@@ -22279,7 +22279,7 @@
 			(remove_unused_layers no)
 			(net 57 "unconnected-(U1-GPIO16-Pad21)")
 			(pinfunction "GPIO16")
-			(pintype "bidirectional")
+			(pintype "bidirectional+no_connect")
 			(uuid "9934e82b-b45a-4ba3-9757-9f8fd60662e1")
 		)
 		(pad "22" thru_hole circle
@@ -22290,7 +22290,7 @@
 			(remove_unused_layers no)
 			(net 41 "unconnected-(U1-GPIO17-Pad22)")
 			(pinfunction "GPIO17")
-			(pintype "bidirectional")
+			(pintype "bidirectional+no_connect")
 			(uuid "0672a3fc-a9db-453e-b82e-4b4b2872a637")
 		)
 		(pad "23" thru_hole custom
@@ -22301,7 +22301,7 @@
 			(remove_unused_layers no)
 			(net 51 "unconnected-(U1-GND-Pad23)")
 			(pinfunction "GND")
-			(pintype "power_in")
+			(pintype "power_in+no_connect")
 			(options
 				(clearance outline)
 				(anchor circle)
@@ -22337,7 +22337,7 @@
 			(remove_unused_layers no)
 			(net 61 "unconnected-(U1-GPIO18-Pad24)")
 			(pinfunction "GPIO18")
-			(pintype "bidirectional")
+			(pintype "bidirectional+no_connect")
 			(uuid "c6d33f47-538f-4b3c-8757-c0f88a730019")
 		)
 		(pad "25" thru_hole circle
@@ -22348,7 +22348,7 @@
 			(remove_unused_layers no)
 			(net 47 "unconnected-(U1-GPIO19-Pad25)")
 			(pinfunction "GPIO19")
-			(pintype "bidirectional")
+			(pintype "bidirectional+no_connect")
 			(uuid "39f94bfc-13d6-425b-9dde-c67cce717500")
 		)
 		(pad "26" thru_hole circle
@@ -22359,7 +22359,7 @@
 			(remove_unused_layers no)
 			(net 68 "unconnected-(U1-GPIO20-Pad26)")
 			(pinfunction "GPIO20")
-			(pintype "bidirectional")
+			(pintype "bidirectional+no_connect")
 			(uuid "fceb9bab-9255-421d-9924-2e915f80a194")
 		)
 		(pad "27" thru_hole circle
@@ -22370,7 +22370,7 @@
 			(remove_unused_layers no)
 			(net 49 "unconnected-(U1-GPIO21-Pad27)")
 			(pinfunction "GPIO21")
-			(pintype "bidirectional")
+			(pintype "bidirectional+no_connect")
 			(uuid "41c4644e-1f35-4685-896a-2bfceaa7be04")
 		)
 		(pad "28" thru_hole custom
@@ -22381,7 +22381,7 @@
 			(remove_unused_layers no)
 			(net 64 "unconnected-(U1-GND-Pad28)")
 			(pinfunction "GND")
-			(pintype "power_in")
+			(pintype "power_in+no_connect")
 			(options
 				(clearance outline)
 				(anchor circle)
@@ -22417,7 +22417,7 @@
 			(remove_unused_layers no)
 			(net 66 "unconnected-(U1-GPIO22-Pad29)")
 			(pinfunction "GPIO22")
-			(pintype "bidirectional")
+			(pintype "bidirectional+no_connect")
 			(uuid "eaaaeee0-b962-468d-a48a-9f193a772918")
 		)
 		(pad "30" thru_hole circle
@@ -22428,7 +22428,7 @@
 			(remove_unused_layers no)
 			(net 62 "unconnected-(U1-RUN-Pad30)")
 			(pinfunction "RUN")
-			(pintype "input")
+			(pintype "input+no_connect")
 			(uuid "cea6d4fa-1ae9-427d-86eb-cd06a6e918b2")
 		)
 		(pad "31" thru_hole circle
@@ -22439,7 +22439,7 @@
 			(remove_unused_layers no)
 			(net 42 "unconnected-(U1-GPIO26_ADC0-Pad31)")
 			(pinfunction "GPIO26_ADC0")
-			(pintype "bidirectional")
+			(pintype "bidirectional+no_connect")
 			(uuid "11d64297-5a5b-4ddc-8868-f86f7847f914")
 		)
 		(pad "32" thru_hole circle
@@ -22450,7 +22450,7 @@
 			(remove_unused_layers no)
 			(net 65 "unconnected-(U1-GPIO27_ADC1-Pad32)")
 			(pinfunction "GPIO27_ADC1")
-			(pintype "bidirectional")
+			(pintype "bidirectional+no_connect")
 			(uuid "ea533c46-a0a8-4692-9072-5d1340538629")
 		)
 		(pad "33" thru_hole custom
@@ -22461,7 +22461,7 @@
 			(remove_unused_layers no)
 			(net 45 "unconnected-(U1-AGND-Pad33)")
 			(pinfunction "AGND")
-			(pintype "power_in")
+			(pintype "power_in+no_connect")
 			(options
 				(clearance outline)
 				(anchor circle)
@@ -22497,7 +22497,7 @@
 			(remove_unused_layers no)
 			(net 53 "unconnected-(U1-GPIO28_ADC2-Pad34)")
 			(pinfunction "GPIO28_ADC2")
-			(pintype "bidirectional")
+			(pintype "bidirectional+no_connect")
 			(uuid "72901adb-5a1e-4005-bc86-bcfdb51215bd")
 		)
 		(pad "35" thru_hole circle
@@ -22508,7 +22508,7 @@
 			(remove_unused_layers no)
 			(net 59 "unconnected-(U1-ADC_VREF-Pad35)")
 			(pinfunction "ADC_VREF")
-			(pintype "unspecified")
+			(pintype "unspecified+no_connect")
 			(uuid "b8a81054-85be-4005-b99f-3d5a5dffbfab")
 		)
 		(pad "36" thru_hole circle
@@ -22519,7 +22519,7 @@
 			(remove_unused_layers no)
 			(net 67 "unconnected-(U1-3V3-Pad36)")
 			(pinfunction "3V3")
-			(pintype "unspecified")
+			(pintype "unspecified+no_connect")
 			(uuid "f1b0ccd3-b419-41da-998d-d1de6c2d86af")
 		)
 		(pad "37" thru_hole circle
@@ -22530,7 +22530,7 @@
 			(remove_unused_layers no)
 			(net 50 "unconnected-(U1-3V3_EN-Pad37)")
 			(pinfunction "3V3_EN")
-			(pintype "input")
+			(pintype "input+no_connect")
 			(uuid "44d343b6-585b-4437-95dc-f822445baf69")
 		)
 		(pad "38" thru_hole custom
@@ -22588,7 +22588,7 @@
 			(remove_unused_layers no)
 			(net 55 "unconnected-(U1-VBUS-Pad40)")
 			(pinfunction "VBUS")
-			(pintype "unspecified")
+			(pintype "unspecified+no_connect")
 			(uuid "7a938c98-b5fd-4cf5-9321-3cc14ff8c14e")
 		)
 		(zone
@@ -25337,7 +25337,7 @@
 			(remove_unused_layers no)
 			(net 123 "unconnected-(U2-GND-Pad3)")
 			(pinfunction "GND")
-			(pintype "power_in")
+			(pintype "power_in+no_connect")
 			(options
 				(clearance outline)
 				(anchor circle)
@@ -25417,7 +25417,7 @@
 			(remove_unused_layers no)
 			(net 137 "unconnected-(U2-GND-Pad8)")
 			(pinfunction "GND")
-			(pintype "power_in")
+			(pintype "power_in+no_connect")
 			(options
 				(clearance outline)
 				(anchor circle)
@@ -25497,7 +25497,7 @@
 			(remove_unused_layers no)
 			(net 124 "unconnected-(U2-GND-Pad13)")
 			(pinfunction "GND")
-			(pintype "power_in")
+			(pintype "power_in+no_connect")
 			(options
 				(clearance outline)
 				(anchor circle)
@@ -25555,7 +25555,7 @@
 			(remove_unused_layers no)
 			(net 125 "unconnected-(U2-GPIO12-Pad16)")
 			(pinfunction "GPIO12")
-			(pintype "bidirectional")
+			(pintype "bidirectional+no_connect")
 			(uuid "8f553f54-b308-409f-bd9f-7c153ed9793c")
 		)
 		(pad "17" thru_hole circle
@@ -25566,7 +25566,7 @@
 			(remove_unused_layers no)
 			(net 120 "unconnected-(U2-GPIO13-Pad17)")
 			(pinfunction "GPIO13")
-			(pintype "bidirectional")
+			(pintype "bidirectional+no_connect")
 			(uuid "7db54d50-ad51-4b2a-a619-6fce4c53a161")
 		)
 		(pad "18" thru_hole custom
@@ -25577,7 +25577,7 @@
 			(remove_unused_layers no)
 			(net 115 "unconnected-(U2-GND-Pad18)")
 			(pinfunction "GND")
-			(pintype "power_in")
+			(pintype "power_in+no_connect")
 			(options
 				(clearance outline)
 				(anchor circle)
@@ -25613,7 +25613,7 @@
 			(remove_unused_layers no)
 			(net 122 "unconnected-(U2-GPIO14-Pad19)")
 			(pinfunction "GPIO14")
-			(pintype "bidirectional")
+			(pintype "bidirectional+no_connect")
 			(uuid "86274942-1b1f-457c-9a35-1c0ca37be342")
 		)
 		(pad "20" thru_hole circle
@@ -25624,7 +25624,7 @@
 			(remove_unused_layers no)
 			(net 121 "unconnected-(U2-GPIO15-Pad20)")
 			(pinfunction "GPIO15")
-			(pintype "bidirectional")
+			(pintype "bidirectional+no_connect")
 			(uuid "7e6bbdbe-70ad-4307-8b32-6e1bfcf4ed32")
 		)
 		(pad "21" thru_hole circle
@@ -25635,7 +25635,7 @@
 			(remove_unused_layers no)
 			(net 117 "unconnected-(U2-GPIO16-Pad21)")
 			(pinfunction "GPIO16")
-			(pintype "bidirectional")
+			(pintype "bidirectional+no_connect")
 			(uuid "6e7bc368-fef1-48ce-ad6a-884db6485c4d")
 		)
 		(pad "22" thru_hole circle
@@ -25646,7 +25646,7 @@
 			(remove_unused_layers no)
 			(net 131 "unconnected-(U2-GPIO17-Pad22)")
 			(pinfunction "GPIO17")
-			(pintype "bidirectional")
+			(pintype "bidirectional+no_connect")
 			(uuid "b21fdfbd-0925-4321-ac21-7e1a942163a5")
 		)
 		(pad "23" thru_hole custom
@@ -25657,7 +25657,7 @@
 			(remove_unused_layers no)
 			(net 128 "unconnected-(U2-GND-Pad23)")
 			(pinfunction "GND")
-			(pintype "power_in")
+			(pintype "power_in+no_connect")
 			(options
 				(clearance outline)
 				(anchor circle)
@@ -25693,7 +25693,7 @@
 			(remove_unused_layers no)
 			(net 126 "unconnected-(U2-GPIO18-Pad24)")
 			(pinfunction "GPIO18")
-			(pintype "bidirectional")
+			(pintype "bidirectional+no_connect")
 			(uuid "9dd0d618-4f14-4997-8706-a7cd8da2f432")
 		)
 		(pad "25" thru_hole circle
@@ -25704,7 +25704,7 @@
 			(remove_unused_layers no)
 			(net 116 "unconnected-(U2-GPIO19-Pad25)")
 			(pinfunction "GPIO19")
-			(pintype "bidirectional")
+			(pintype "bidirectional+no_connect")
 			(uuid "6c66a2f0-a8e1-48b3-98e3-6648f9276797")
 		)
 		(pad "26" thru_hole circle
@@ -25715,7 +25715,7 @@
 			(remove_unused_layers no)
 			(net 132 "unconnected-(U2-GPIO20-Pad26)")
 			(pinfunction "GPIO20")
-			(pintype "bidirectional")
+			(pintype "bidirectional+no_connect")
 			(uuid "b80f07a9-5025-46e6-94a9-8f6347f51ea7")
 		)
 		(pad "27" thru_hole circle
@@ -25726,7 +25726,7 @@
 			(remove_unused_layers no)
 			(net 127 "unconnected-(U2-GPIO21-Pad27)")
 			(pinfunction "GPIO21")
-			(pintype "bidirectional")
+			(pintype "bidirectional+no_connect")
 			(uuid "9ee61a1c-2388-427b-a708-6568567398e1")
 		)
 		(pad "28" thru_hole custom
@@ -25737,7 +25737,7 @@
 			(remove_unused_layers no)
 			(net 136 "unconnected-(U2-GND-Pad28)")
 			(pinfunction "GND")
-			(pintype "power_in")
+			(pintype "power_in+no_connect")
 			(options
 				(clearance outline)
 				(anchor circle)
@@ -25773,7 +25773,7 @@
 			(remove_unused_layers no)
 			(net 138 "unconnected-(U2-GPIO22-Pad29)")
 			(pinfunction "GPIO22")
-			(pintype "bidirectional")
+			(pintype "bidirectional+no_connect")
 			(uuid "ff54285f-7a8b-44c6-bd8c-ede4cf4b6f2a")
 		)
 		(pad "30" thru_hole circle
@@ -25784,7 +25784,7 @@
 			(remove_unused_layers no)
 			(net 134 "unconnected-(U2-RUN-Pad30)")
 			(pinfunction "RUN")
-			(pintype "input")
+			(pintype "input+no_connect")
 			(uuid "e6ca40c8-0d28-4cf6-acab-74eac0bc6118")
 		)
 		(pad "31" thru_hole circle
@@ -25795,7 +25795,7 @@
 			(remove_unused_layers no)
 			(net 135 "unconnected-(U2-GPIO26_ADC0-Pad31)")
 			(pinfunction "GPIO26_ADC0")
-			(pintype "bidirectional")
+			(pintype "bidirectional+no_connect")
 			(uuid "f196a1b5-efcc-4171-a624-0184ae1e7860")
 		)
 		(pad "32" thru_hole circle
@@ -25806,7 +25806,7 @@
 			(remove_unused_layers no)
 			(net 119 "unconnected-(U2-GPIO27_ADC1-Pad32)")
 			(pinfunction "GPIO27_ADC1")
-			(pintype "bidirectional")
+			(pintype "bidirectional+no_connect")
 			(uuid "7d822dd5-bb87-4947-8a9f-25a349f949d4")
 		)
 		(pad "33" thru_hole custom
@@ -25817,7 +25817,7 @@
 			(remove_unused_layers no)
 			(net 130 "unconnected-(U2-AGND-Pad33)")
 			(pinfunction "AGND")
-			(pintype "power_in")
+			(pintype "power_in+no_connect")
 			(options
 				(clearance outline)
 				(anchor circle)
@@ -25853,7 +25853,7 @@
 			(remove_unused_layers no)
 			(net 129 "unconnected-(U2-GPIO28_ADC2-Pad34)")
 			(pinfunction "GPIO28_ADC2")
-			(pintype "bidirectional")
+			(pintype "bidirectional+no_connect")
 			(uuid "b1277e60-f42a-46de-8bf2-9afb7b369bdd")
 		)
 		(pad "35" thru_hole circle
@@ -25864,7 +25864,7 @@
 			(remove_unused_layers no)
 			(net 133 "unconnected-(U2-ADC_VREF-Pad35)")
 			(pinfunction "ADC_VREF")
-			(pintype "unspecified")
+			(pintype "unspecified+no_connect")
 			(uuid "e27d9d99-0790-413d-adc0-00538e97c4a7")
 		)
 		(pad "36" thru_hole circle
@@ -25875,7 +25875,7 @@
 			(remove_unused_layers no)
 			(net 113 "unconnected-(U2-3V3-Pad36)")
 			(pinfunction "3V3")
-			(pintype "unspecified")
+			(pintype "unspecified+no_connect")
 			(uuid "0a6857d6-6d45-4c1e-a704-910707e966e0")
 		)
 		(pad "37" thru_hole circle
@@ -25886,7 +25886,7 @@
 			(remove_unused_layers no)
 			(net 118 "unconnected-(U2-3V3_EN-Pad37)")
 			(pinfunction "3V3_EN")
-			(pintype "input")
+			(pintype "input+no_connect")
 			(uuid "77d42685-1578-40ec-be46-818d175526b6")
 		)
 		(pad "38" thru_hole custom
@@ -25944,7 +25944,7 @@
 			(remove_unused_layers no)
 			(net 114 "unconnected-(U2-VBUS-Pad40)")
 			(pinfunction "VBUS")
-			(pintype "unspecified")
+			(pintype "unspecified+no_connect")
 			(uuid "3cb3232b-c1b2-415d-b65e-9e22f61e35c7")
 		)
 		(zone
